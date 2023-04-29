@@ -4,7 +4,7 @@ username = input("Enter a username: ")
 # B. Ask user to enter a preferred password
 password = input("Enter a password: ")
 
-#Login
+# Login
 login = 'n'
 while login == 'n':
     # Ask user to login with their username and password
